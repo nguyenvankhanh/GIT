@@ -37,24 +37,6 @@ $ git commit -m "Issue #OST-ma_task_cha - create form search and validate except
  + ![1554975383694](C:\Users\nvkhanh\AppData\Roaming\Typora\typora-user-images\1554975383694.png)
  + chú ý là nhánh dev, ko phải master
 
-### Sau đó vào sub task gắn link và assignee cho người review
-
-![1551754253585](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1551754253585.png)
-
-link merger request
-
-https://source.cmcglobal.com.vn/du2/drupal8-training/merge_requests/17
-
-cái link gắn merequest mà  ko phải giống như trên thì ko được
-
-![1551754285389](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1551754285389.png)
-
- làm tương tự ở tag cha
-
-![1551870028272](C:\Users\USER\AppData\Roaming\Typora\typora-user-images\1551870028272.png)
-
-Tạo sub task cần gắn duedate
-
 ## Ngoại lệ
 
 ### Lấy lại commit khi có một số file add không mong muốn
